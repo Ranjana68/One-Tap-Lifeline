@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "793041123076",
+    "firebase_url": "https://one-tap-life-line.firebaseio.com",
+    "project_id": "one-tap-life-line",
+    "storage_bucket": "one-tap-life-line.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793041123076:android:74222cab62e3b415b1c251",
+        "android_client_info": {
+          "package_name": "com.example.signup_login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793041123076-4spo1rcmod9dfrkngir2eh59oo9cg5ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbnzVzxe420WdkI9zHQSm4PPLybUEG1b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793041123076-4spo1rcmod9dfrkngir2eh59oo9cg5ui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
