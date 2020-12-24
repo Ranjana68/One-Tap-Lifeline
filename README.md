@@ -51,14 +51,18 @@ Screenshots of the Application
 The Sign In and Log In page of the application
 ![](Images/1.PNG)
 
+
 The Home page and the Drawer (Build with material design)
 ![](Images/2.PNG)
+
 
 Some helpline numbers in a web page and  another activity shows your trusted contact fetched from firebase ,you can add and delete them (Number hidden for prviacy purpose)
 ![](Images/3.PNG)
 
+
 Your current location using google map API which can be shared to anyone easily and quickly through the app 
 ![](Images/4.PNG)
+
 
 Calling service and logout page (email hidden for prviacy purpose)
 ![](Images/5.PNG)
