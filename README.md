@@ -40,7 +40,7 @@ Installation
 Usage
 -----
 Refer the following diagram to understand the flow of the application
-![](Images/WF.PNG)
+![](Images/FlowChart.PNG)
 
 
 ----------
@@ -48,15 +48,20 @@ Refer the following diagram to understand the flow of the application
 
 Screenshots of the Application
 -------
-The Buy option Activity with details of seller and to call the seller
-![](Images/SS1.PNG)
+The Sign In and Log In page of the application
+![](Images/1.PNG)
 
-The Sell option Activity to add your items to sell
-![](Images/SS2.PNG)
+The Home page and the Drawer (Build with material design)
+![](Images/2.PNG)
 
-About the App and the Mail option with which you can mail for query
-![](Images/SS3.PNG)
+Some helpline numbers in a web page and  another activity shows your trusted contact fetched from firebase ,you can add and delete them (Number hidden for prviacy purpose)
+![](Images/3.PNG)
 
+Your current location using google map API which can be shared to anyone easily and quickly through the app 
+![](Images/4.PNG)
+
+Calling service and logout page (email hidden for prviacy purpose)
+![](Images/5.PNG)
 
 
 
